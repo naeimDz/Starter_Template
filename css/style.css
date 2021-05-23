@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body {
+    background-color: rgba(217, 217, 217, 0.3);
+    min-height: 100vh;
+}
